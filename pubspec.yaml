@@ -1,0 +1,3 @@
+name: crack_coding
+dependencies:
+  args: ^1.5.2
